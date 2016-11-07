@@ -1,4 +1,5 @@
-There are three suggested way for installing OpenCV.
+# OpenCV
+OpenCV is the famous open-source computer vision library. There are three suggested way for installing OpenCV.
 
 #### Using bash script files
 1. Install directly by going to [this link](https://github.com/astorfi/Install-OpenCV/tree/master/files) and using one of the "OpenCV.sh" or "OpenCV_Alternative.sh" bash script files available in this repository.
