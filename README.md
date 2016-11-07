@@ -1,7 +1,7 @@
 There are three suggested way for installing OpenCV.
 
 #### Using bash script files
-1. Install directly by going to [this link](https://github.com/astorfi/Caffe_Framework/tree/master/Installation/OpenCV_Installation) and using one of the "OpenCV.sh" or "OpenCV_Alternative.sh" bash script files available in this repository.
+1. Install directly by going to [this link](https://github.com/astorfi/Install-OpenCV/tree/master/files) and using one of the "OpenCV.sh" or "OpenCV_Alternative.sh" bash script files available in this repository.
  * The second file is more abstract and installs less dependancies. This may lead to have less conflicts and incompatibilties.
 2. Install as follows for the particular version:
  * The first two files are the edited version of the second method.
